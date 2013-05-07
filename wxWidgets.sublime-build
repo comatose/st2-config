@@ -1,0 +1,3 @@
+{
+	"cmd": ["g++ $(wx-config --cppflags) $(wx-config --libs) ${file}"]
+}
